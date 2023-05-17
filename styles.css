@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+
+img
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+color: 
+}
+body 
+{ 
+  background-image: url('picture1.png');
+  background-attachment: fixed;
+  background-size: 50% 50%;
+}
+li
+{
+color: green;
+font-family: arial;
+font-size: 30px;
+text-align: center;
+}
+h1
+{
+display: center;
+padding: 5px;
+color: green;
+font-family: cursive;
+text-align: center;
+font-size: 60px; 
+}
+
+ul
+{
+color: gold;
+display: center;
+padding: 10px;
+font-size: 50px;
+}
+</html>
+</head>
